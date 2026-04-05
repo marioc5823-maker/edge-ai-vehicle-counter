@@ -13,16 +13,24 @@ Real-time vehicle detection and directional counting pipeline using YOLOv8, depl
 
 **Hardware:**
 
-Raspberry Pi 4/Raspberry Pi 5
-External USB Camera
+-Raspberry Pi 4/Raspberry Pi 5
+
+-External USB Camera
+
+
 
 **Tech Stack:**
 
-Python 3.10+
-YOLOv8 (Ultralytics)
-OpenCV
-cvzone
+-Python 3.10+
+
+-YOLOv8 (Ultralytics)
+
+-OpenCV
+
+-cvzone
+
 
 
 **Demo:**
+
 //enter URL
